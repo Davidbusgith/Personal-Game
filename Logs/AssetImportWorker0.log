@@ -1,0 +1,686 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.7 (Build 20G817)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/2020.3.27f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/teacher/Desktop/create with code /Lab 3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52084
+Successfully changed project path to: /Users/teacher/Desktop/create with code /Lab 3
+Could not lock editor preferences. Preferences updates for this instance of Unity will not be saved./Users/teacher/Desktop/create with code /Lab 3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path /Applications/2020.3.27f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/teacher/Desktop/create with code /Lab 3/Assets
+GfxDevice: creating device client; threaded=0
+2024-11-27 12:12:10.735 Unity[8698:394480] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2024-11-27 12:12:10.735 Unity[8698:394480] Metal devices available: 1
+2024-11-27 12:12:10.735 Unity[8698:394480] 0: AMD Radeon Pro 5500 XT (high power)
+2024-11-27 12:12:10.737 Unity[8698:394480] Using device AMD Radeon Pro 5500 XT (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500 XT
+Initialize mono
+Mono path[0] = '/Applications/2020.3.27f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56698
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.3.27f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000437 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.515 seconds
+Domain Reload Profiling:
+	ReloadAssembly (516ms)
+		BeginReloadAssembly (37ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (412ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (157ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (150ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (23ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (90ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001605 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Domain Reload Profiling:
+	ReloadAssembly (941ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (755ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (281ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (273ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (40ms)
+				ProcessInitializeOnLoadAttributes (220ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000166 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000204 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/2020.3.27f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1504 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.8 MB.
+System memory in use after: 175.0 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 2.608380 ms (FindLiveObjects: 0.135033 ms CreateObjectMapping: 0.056082 ms MarkObjects: 2.029965 ms  DeleteObjects: 0.386575 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.002782 seconds 
+  Import took 0.004382 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.894 seconds
+Domain Reload Profiling:
+	ReloadAssembly (894ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (735ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (287ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (249ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (166ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.7 MB.
+System memory in use after: 176.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 2.516335 ms (FindLiveObjects: 0.101651 ms CreateObjectMapping: 0.038266 ms MarkObjects: 1.880991 ms  DeleteObjects: 0.494865 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1506.426293 seconds.
+  path: Assets/Quirky Series Ultimate/FREE
+  artifactKey: Guid(6f29dccbd3e67425bba9feb6f0abe385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE using Guid(6f29dccbd3e67425bba9feb6f0abe385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4acac9b4f30c0e9e2996f954f9b55238') in 0.003078 seconds 
+  Import took 0.005046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.390974 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Demo
+  artifactKey: Guid(f95ea16d151aa499db20896b16864aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Demo using Guid(f95ea16d151aa499db20896b16864aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f5fb3bca7d71ccf882f4e941fd293b') in 0.001745 seconds 
+  Import took 0.003470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064029 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Demo/M_DemoPlane.mat
+  artifactKey: Guid(ccf25ce32e765dc4a8add71f83eaaad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Demo/M_DemoPlane.mat using Guid(ccf25ce32e765dc4a8add71f83eaaad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd334fe56159cfe518ac243c49f9f46e') in 0.794697 seconds 
+  Import took 0.799613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Demo/Demo_Sparrow.unity
+  artifactKey: Guid(d17721c593188244e83e78561159c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Demo/Demo_Sparrow.unity using Guid(d17721c593188244e83e78561159c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d15e3b40e832d5c5fe707283f1cb7b7') in 0.001002 seconds 
+  Import took 0.002406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.821186 seconds.
+  path: Assets/Scenes/Main Scene.unity
+  artifactKey: Guid(ff4efe2367b104d5a8a8a9c72143b5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main Scene.unity using Guid(ff4efe2367b104d5a8a8a9c72143b5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d51d7bc8bd7b9690235364260d8af13') in 0.001517 seconds 
+  Import took 0.003312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.503051 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD0.fbx
+  artifactKey: Guid(5d1cd35570dc600419da732416cfb76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD0.fbx using Guid(5d1cd35570dc600419da732416cfb76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3500cdff4aa628fdd594ed542b94fbb') in 0.531637 seconds 
+  Import took 0.536975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD1.fbx
+  artifactKey: Guid(9679f1fea2a0be24aac869c621837d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD1.fbx using Guid(9679f1fea2a0be24aac869c621837d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052157dbcbf8ecf35714ad05534ad57d') in 0.018670 seconds 
+  Import took 0.021022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD2.fbx
+  artifactKey: Guid(5d65f55b81ed9e94d9c9a41ecae53f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD2.fbx using Guid(5d65f55b81ed9e94d9c9a41ecae53f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40957080eb55d89782f0793b44ea631f') in 0.017278 seconds 
+  Import took 0.020141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD3.fbx
+  artifactKey: Guid(ccffdb6a86a472147a9d638ebe9fcd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Models/Sparrow_LOD3.fbx using Guid(ccffdb6a86a472147a9d638ebe9fcd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49145bd4faf8f8ee19d8991ca845a454') in 0.016223 seconds 
+  Import took 0.018820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.326741 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Prefabs/Sparrow.prefab
+  artifactKey: Guid(ad4137f595ec8e2449cacca9df7d3735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Prefabs/Sparrow.prefab using Guid(ad4137f595ec8e2449cacca9df7d3735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d11de115a829def2b72af457d145db') in 0.170776 seconds 
+  Import took 0.177193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.694098 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Animations/Sparrow_Animations.fbx
+  artifactKey: Guid(34f30712d30697648b80843f9e09934c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Animations/Sparrow_Animations.fbx using Guid(34f30712d30697648b80843f9e09934c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411c8c44e491b9642ebcb71b070399de') in 0.026326 seconds 
+  Import took 0.029078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.172208 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Animations/AC_Sparrow.controller
+  artifactKey: Guid(a06e775a1f9b7ad44953485156dbea76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Animations/AC_Sparrow.controller using Guid(a06e775a1f9b7ad44953485156dbea76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d91025f948548ee6fb1d2c871e15d1a') in 0.154230 seconds 
+  Import took 0.160461 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003100 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Domain Reload Profiling:
+	ReloadAssembly (865ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (714ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (253ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (167ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.2 MB.
+System memory in use after: 208.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2026.
+Total: 2.220030 ms (FindLiveObjects: 0.098316 ms CreateObjectMapping: 0.036249 ms MarkObjects: 1.871229 ms  DeleteObjects: 0.213690 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 174.990600 seconds.
+  path: Assets/space_summer/models
+  artifactKey: Guid(84bd24ecf1ee40d42afb2f9d7852e4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/models using Guid(84bd24ecf1ee40d42afb2f9d7852e4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6211aceb7aaef826147d01c3982767') in 0.002915 seconds 
+  Import took 0.004741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045949 seconds.
+  path: Assets/space_summer/models/space_background.fbx
+  artifactKey: Guid(4ce16c1052c77fd409b4ac27e803f4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/models/space_background.fbx using Guid(4ce16c1052c77fd409b4ac27e803f4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8a2e8da5addacb9d1f9b7029e90878') in 0.055751 seconds 
+  Import took 0.057762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.752514 seconds.
+  path: Assets/space_summer/DemoScene
+  artifactKey: Guid(a4eb6d91ea94eac40a10d5235db1e6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/DemoScene using Guid(a4eb6d91ea94eac40a10d5235db1e6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b322c291efbf73c688ef47f06b23b69') in 0.000926 seconds 
+  Import took 0.002712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.901143 seconds.
+  path: Assets/space_summer/DemoScene/000.unity
+  artifactKey: Guid(3dea9148303c12f4fb2aa01f9ed3995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/DemoScene/000.unity using Guid(3dea9148303c12f4fb2aa01f9ed3995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286d6d5139293615a087c15ba0b79016') in 0.001213 seconds 
+  Import took 0.003015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.864316 seconds.
+  path: Assets/space_summer/Materials/floor_color.mat
+  artifactKey: Guid(d6e12bbc8921e0e49b2a2378c1d04876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Materials/floor_color.mat using Guid(d6e12bbc8921e0e49b2a2378c1d04876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b274244d53ce6bea7455a1847db291') in 0.014535 seconds 
+  Import took 0.016625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/space_summer/Materials/glass.mat
+  artifactKey: Guid(58a43b414d5f83a4fbb9d237baf7ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Materials/glass.mat using Guid(58a43b414d5f83a4fbb9d237baf7ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917fc03d81a4971014cc25d3aa05483f') in 0.359660 seconds 
+  Import took 0.361544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/space_summer/Materials/space_.mat
+  artifactKey: Guid(643a842203015a1479ac875b92de5640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Materials/space_.mat using Guid(643a842203015a1479ac875b92de5640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ba9de5679aaf0348ea2a7d002cfc44') in 0.350288 seconds 
+  Import took 0.352089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/space_summer/Materials/space_back.mat
+  artifactKey: Guid(5aa2fd5e412e66c438bfa5fa24fd7550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Materials/space_back.mat using Guid(5aa2fd5e412e66c438bfa5fa24fd7550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210faae7a891529f5c70652bf956fae1') in 0.007993 seconds 
+  Import took 0.009867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.155439 seconds.
+  path: Assets/space_summer/Prefabs/space_background.prefab
+  artifactKey: Guid(3a88687998fd7b444b5567e69d23a12a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/space_background.prefab using Guid(3a88687998fd7b444b5567e69d23a12a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7ca7903adc4f4511a8abdf76caa716') in 0.007862 seconds 
+  Import took 0.009963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.764199 seconds.
+  path: Assets/space_summer/Prefabs/bushes
+  artifactKey: Guid(2b1dbf199219e484b9e4067038fac9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes using Guid(2b1dbf199219e484b9e4067038fac9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f90f135b41c0b4acac1a938197ee26') in 0.001738 seconds 
+  Import took 0.003856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047430 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_chamomile.prefab
+  artifactKey: Guid(ccbf60b1f4b3ee04d913078cbc41eaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_chamomile.prefab using Guid(ccbf60b1f4b3ee04d913078cbc41eaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c29c91a5ae95179a3e15839b959e3b8') in 0.012066 seconds 
+  Import took 0.014058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_lilac.prefab
+  artifactKey: Guid(54cfdc27841fbea4aaef8608f3cf7598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_lilac.prefab using Guid(54cfdc27841fbea4aaef8608f3cf7598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683eef841728dbd9a44206bb589b685e') in 0.009502 seconds 
+  Import took 0.011348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_mint.prefab
+  artifactKey: Guid(889a700cbdf229f42ab89e2fadba7f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_mint.prefab using Guid(889a700cbdf229f42ab89e2fadba7f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbf7935dbab8b1dcf7531b6bab6d92a') in 0.009356 seconds 
+  Import took 0.011295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_weed_1.prefab
+  artifactKey: Guid(acd08aab4ab3ca54cbda325ca40b6660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_weed_1.prefab using Guid(acd08aab4ab3ca54cbda325ca40b6660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40293ddeaadae9e3e8df45c08e41d0ad') in 0.008841 seconds 
+  Import took 0.010884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_weed_4.prefab
+  artifactKey: Guid(9a072042074ebe344b27bf5c2c9a5f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_weed_4.prefab using Guid(9a072042074ebe344b27bf5c2c9a5f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c804d21eb998c62a4a07ec4d4c1b4f40') in 0.009551 seconds 
+  Import took 0.011409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_loach.prefab
+  artifactKey: Guid(2392a99134fdd3b448193dec779fcd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_loach.prefab using Guid(2392a99134fdd3b448193dec779fcd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc12aeedf2fcd3019f483784e83496b') in 0.009865 seconds 
+  Import took 0.011725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_weed.prefab
+  artifactKey: Guid(155280531c2625a4ebebda62efdfce2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_weed.prefab using Guid(155280531c2625a4ebebda62efdfce2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9287d6de0be416434b80b053f034328a') in 0.009001 seconds 
+  Import took 0.010819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_poppy.prefab
+  artifactKey: Guid(f763a4f7769344d41a2028c02fc71ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_poppy.prefab using Guid(f763a4f7769344d41a2028c02fc71ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561bf835b290aa1bbf726c050ee56eff') in 0.011052 seconds 
+  Import took 0.012940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_grass_1.prefab
+  artifactKey: Guid(0b6ee861ae94c564785719390177d868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_grass_1.prefab using Guid(0b6ee861ae94c564785719390177d868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780827011b55737309d704df52495f57') in 0.009244 seconds 
+  Import took 0.011183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_weed_2.prefab
+  artifactKey: Guid(1075f60e2a64c22489df9ff30d49d203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_weed_2.prefab using Guid(1075f60e2a64c22489df9ff30d49d203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730171d0422af176313983692d7d9635') in 0.007819 seconds 
+  Import took 0.009978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_grass_2.prefab
+  artifactKey: Guid(30c7c09110a9e3f44994a75a1e11c530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_grass_2.prefab using Guid(30c7c09110a9e3f44994a75a1e11c530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ca17d35544b3f6f3a5d1fb5e4b49f9') in 0.011650 seconds 
+  Import took 0.013459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_weed_3.prefab
+  artifactKey: Guid(48d9d545c1415c643bdc40b5b3e63590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_weed_3.prefab using Guid(48d9d545c1415c643bdc40b5b3e63590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4dcc6d7a46c2a53d9a95fab044a46ae') in 0.009179 seconds 
+  Import took 0.011020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_clover.prefab
+  artifactKey: Guid(c2c84973f4300b54a9cc16874556d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_clover.prefab using Guid(c2c84973f4300b54a9cc16874556d588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4294b97eb4ab9a522ad64bf7ff8a31') in 0.011486 seconds 
+  Import took 0.013346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_dandelion.prefab
+  artifactKey: Guid(f81e08eabf41ef347a29326be1fbdffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_dandelion.prefab using Guid(f81e08eabf41ef347a29326be1fbdffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5960445cc2023286447fe613d95b8d1e') in 0.012019 seconds 
+  Import took 0.013981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_nettle.prefab
+  artifactKey: Guid(46bdab0bfa6b7ea4b91e5a1bbc164a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_nettle.prefab using Guid(46bdab0bfa6b7ea4b91e5a1bbc164a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4a2a63094b89e5bff0af89ea06cb77') in 0.009489 seconds 
+  Import took 0.011746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_wheat.prefab
+  artifactKey: Guid(8bd2868cc355f6e4f862cb166f2c8561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_wheat.prefab using Guid(8bd2868cc355f6e4f862cb166f2c8561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d29678a9e4563eca886f653a46cf489') in 0.011791 seconds 
+  Import took 0.013658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_dry_grass.prefab
+  artifactKey: Guid(4d2264071e98381489d9c525ebd05b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_dry_grass.prefab using Guid(4d2264071e98381489d9c525ebd05b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f06a6a0e1bf4c4670931d5c4c7bd8f9') in 0.011344 seconds 
+  Import took 0.013233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_wild_chamomile.prefab
+  artifactKey: Guid(99ecc5675d8e7af47a7d53553730f8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_wild_chamomile.prefab using Guid(99ecc5675d8e7af47a7d53553730f8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd1b9bf5c00f059a4f217b74bc2620f') in 0.008935 seconds 
+  Import took 0.010888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/space_summer/Prefabs/bushes/space_grass.prefab
+  artifactKey: Guid(fdfee6f51d0f8a14babfe35cbea67a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/bushes/space_grass.prefab using Guid(fdfee6f51d0f8a14babfe35cbea67a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c86db7a4ed87ff78e34355284715d2f') in 0.009189 seconds 
+  Import took 0.011169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.118748 seconds.
+  path: Assets/space_summer/Prefabs/trees/space_spruce.prefab
+  artifactKey: Guid(9d582593979b5e146b1378ca781dba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/space_spruce.prefab using Guid(9d582593979b5e146b1378ca781dba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ae9e9259df09ec1de98a2b9cc76a81') in 0.011399 seconds 
+  Import took 0.013516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/space_summer/Prefabs/trees/space_spruce_3.prefab
+  artifactKey: Guid(e3eea6d2e77863c4a8b19a0d3b0d99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/space_spruce_3.prefab using Guid(e3eea6d2e77863c4a8b19a0d3b0d99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00487ad7abd27ea205b5844a8f687abb') in 0.013029 seconds 
+  Import took 0.014823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/space_summer/Prefabs/trees/spase_aspen.prefab
+  artifactKey: Guid(a82efbdc41b4b3f40b46ce9b1552ea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/spase_aspen.prefab using Guid(a82efbdc41b4b3f40b46ce9b1552ea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83dbd7a7c7498aa69868f607c4cc2052') in 0.014562 seconds 
+  Import took 0.016756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/space_summer/Prefabs/trees/spase_oak.prefab
+  artifactKey: Guid(35d29c03847364040a4464364109c2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/spase_oak.prefab using Guid(35d29c03847364040a4464364109c2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d8bb8658b149755d90405a5ce6f297') in 0.014242 seconds 
+  Import took 0.016200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/space_summer/Prefabs/trees/space_spruce_5.prefab
+  artifactKey: Guid(09b3cd4fe83f6004fbca694ec09598be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/space_spruce_5.prefab using Guid(09b3cd4fe83f6004fbca694ec09598be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639fb94f798612aa1a75f22861dc5d86') in 0.012007 seconds 
+  Import took 0.014149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/space_summer/Prefabs/trees/space_spruce_1.prefab
+  artifactKey: Guid(b221d4a9c42029b4392644c5ea6fe331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/space_spruce_1.prefab using Guid(b221d4a9c42029b4392644c5ea6fe331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b51f6bd71ba2dd65df712f297d0b02b') in 0.011480 seconds 
+  Import took 0.013610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/space_summer/Prefabs/trees/space_spruce_2.prefab
+  artifactKey: Guid(d4b88efd3c951ec4eb0d0dbf61d71b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/space_spruce_2.prefab using Guid(d4b88efd3c951ec4eb0d0dbf61d71b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f68a8485fb2f98543845d5b05558c1b') in 0.010795 seconds 
+  Import took 0.013040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/space_summer/Prefabs/trees/spase_maple.prefab
+  artifactKey: Guid(ccc2d0512e92a7e46bba2610e8ba1da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/spase_maple.prefab using Guid(ccc2d0512e92a7e46bba2610e8ba1da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b41169992846b00269b7520d04a92a1b') in 0.013411 seconds 
+  Import took 0.015358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/space_summer/Prefabs/trees/spase_ash-tree.prefab
+  artifactKey: Guid(5a52611d1e9ad0b4aa6c76d4c9a21423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/spase_ash-tree.prefab using Guid(5a52611d1e9ad0b4aa6c76d4c9a21423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c6efe2e00302ab99b92f99d5b90efd') in 0.014314 seconds 
+  Import took 0.016268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/space_summer/Prefabs/trees/space_spruce_4.prefab
+  artifactKey: Guid(c164f920d1b34aa41bdf0ae333048f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/space_spruce_4.prefab using Guid(c164f920d1b34aa41bdf0ae333048f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa17cab1a75c4d882abb591aa164c08') in 0.012368 seconds 
+  Import took 0.014263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/space_summer/Prefabs/trees/spase_birch.prefab
+  artifactKey: Guid(f560ebbd47df5ae47bcc728904fa24b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/space_summer/Prefabs/trees/spase_birch.prefab using Guid(f560ebbd47df5ae47bcc728904fa24b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d4ff1154056acacd6064993fab80a1') in 0.015535 seconds 
+  Import took 0.017437 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
